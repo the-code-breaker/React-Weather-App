@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot 2023-07-05 114053](https://github.com/the-code-breaker/React-Weather-App/assets/93040364/0a333043-6333-4af4-8cde-2e0290ffd829)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
